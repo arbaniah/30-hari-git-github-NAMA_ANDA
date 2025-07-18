@@ -1,0 +1,13 @@
+git init adalah perintah yang digunakan untuk menginisialisasi repositori Git baru pada direktori lokal. Fungsi dari perintah git init adalah:
+
+1. Membuat repositori Git baru: Perintah git init membuat repositori Git baru pada direktori lokal, sehingga Anda dapat mulai melacak perubahan pada kode sumber.
+2. Mengatur struktur direktori Git: Perintah git init membuat direktori .git yang berisi struktur direktori Git, seperti objects, refs, dan HEAD.
+3. Mengaktifkan fitur Git: Setelah menjalankan git init, Anda dapat menggunakan fitur Git lainnya, seperti git add, git commit, dan git log.
+
+Dengan menjalankan git init, Anda dapat:
+
+- Melacak perubahan pada kode sumber
+- Membuat commit untuk menyimpan perubahan
+- Menggunakan fitur Git lainnya untuk mengelola kode sumber
+
+Perintah git init biasanya dijalankan pada awal proyek, ketika Anda ingin mulai menggunakan Git untuk mengelola kode sumber.
