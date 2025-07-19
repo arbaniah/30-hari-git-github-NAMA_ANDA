@@ -1,0 +1,25 @@
+PS C:\Users\ACER\30-hari-git-github-NAMA_ANDA> git log
+commit 43941d1d690a7047d170c25a8e97509d8cfe1edf (HEAD -> main)
+Author: Arbaniah <inyahrahman@gmail.com>
+Date:   Fri Jul 18 11:41:14 2025 +0800
+
+    Menambahkan status repositori ke file hari-04.txt
+
+commit 29d6135f8e1a4c9ca3b884ad13d2c40ae1a37200
+Author: Arbaniah <inyahrahman@gmail.com>
+Date:   Fri Jul 18 11:04:43 2025 +0800
+
+    Menambahkan file hari-04.txt
+
+commit 3dca567e13ef70df4bcb45bb1cbe5b7584704ab7
+Author: Arbaniah <inyahrahman@gmail.com>
+Date:   Fri Jul 18 10:44:41 2025 +0800
+
+    Commit pertama: Inisialisasi proyek dan tugas hari 1 & 2
+
+commit e4307242d62606f001e4d619efa1dadc0574b913
+Author: Arbaniah <inyahrahman@gmail.com>
+Date:   Fri Jul 18 10:35:24 2025 +0800
+
+    Commit pertama: Inisialisasi proyek dan tugas hari 1 & 2
+PS C:\Users\ACER\30-hari-git-github-NAMA_ANDA>
